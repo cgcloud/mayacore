@@ -1,0 +1,2 @@
+# mayacore
+maya core package
